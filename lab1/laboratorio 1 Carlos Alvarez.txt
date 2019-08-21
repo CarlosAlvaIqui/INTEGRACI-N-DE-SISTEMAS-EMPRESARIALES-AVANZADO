@@ -1,0 +1,33 @@
+INTEGRACIÓN DE SISTEMAS EMPRESARIALES Avanzado
+
+Laboratorio
+
+Instalación de ODOO
+
+Alumno: Carlos Enrique Alvarez Iquiapaza
+
+Conclusiones
+
+Tarea
+
+1.	Complete la siguiente tabla sobre los principales módulos disponibles en ODOO: 
+
+Odoo Web	Esta herramienta es usado para la creación de sitios web corporativos a si también como blog, comercio electrónico o e-commerce, seo y plantillas
+Odoo Marketing	Campañas, generación de lead u oportunidades de negocios, encuestas, reportes de actividades
+Odoo CMR y Ventas	Generacion de leads, oportunidades de negocio, listas de precios, procesos de venta, cotizaciones, ordenes de venta.
+Odoo Almacenas	Esta herramienta controla el inventario asi también se encarga de las adquiciones, multi almacén y trazabilidad
+Odoo Fabricacion	Lista de componentes de los materiales y materias primas, desgaste, operaciones de montaje o fabricación, centro de trabajos
+
+2.	Complete la siguiente tabla sobre los principales productos ERP disponibles en la actualidad: 
+
+Sap	Sap	Erp sap es un paquete muy frecuentado por las grandes empresas y pymes  este fue diseñado con la principal función de mejorar y optimizar la gestión de ventas que están relacionados con las finazas , clientes y operación de la compañía.
+Oracle	Oracle	consiste en una colección de más de 70 aplicaciones de negocios modulares, pre-integradas y específicas para ciertas industrias y diseñadas para una implantación rápida y una fácil administración.
+Microsoft Dynamics 	Microsoft Dynamics 	Este sistema ERP ofrece grandes ventajas en el área de gestión financiera, gestión de relaciones con los clientes y en la cadena de suministro. 
+Estas soluciones brindadas por Microsoft dynamics ayudan a mantener el control de las financias y a administrarlas con un alto nivel de eficacia
+
+
+Conclusiones
+
+Tras la resolución de este laboratorio vimos los pasos de la instalación de odoo en Windows 
+
+Odoo nos proporciona un conjunto de aplicaciones para empresas fáciles de utilizar.
