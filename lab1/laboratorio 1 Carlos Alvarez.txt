@@ -6,28 +6,59 @@ Instalación de ODOO
 
 Alumno: Carlos Enrique Alvarez Iquiapaza
 
+Ciclo: VI
+
+2.3. Complete los datos del formulario. Clic en “Create database”
+
+Imagen(Creacion de cuenta odoo.PNG)
+
+2.5. Verifique que tenga acceso al portal de ODOO. Clic en Apps para visualizar las aplicaciones que se tienen disponibles en ODOO 
+
+Imagen(odoo en windows.PNG)
+
+2.6. Instale el programa PgAdmin en el Servidor. Ingrese a la herramienta y conéctese a la base de datos PosgreSQL
+
+Imagen(pg adming.PNG)
+
+3.6. Comprobar la instalación 
+
+Imagen(ODOO en linux consola.PNG)
+
+4.3. Espere que finalice la creación de la base de datos y se muestre el portal de ODOO
+
+Imagen(odoo en linux.PNG)
+
+
+
 Conclusiones
 
 Tarea
 
 1.	Complete la siguiente tabla sobre los principales módulos disponibles en ODOO: 
 
-Odoo Web	Esta herramienta es usado para la creación de sitios web corporativos a si también como blog, comercio electrónico o e-commerce, seo y plantillas
-Odoo Marketing	Campañas, generación de lead u oportunidades de negocios, encuestas, reportes de actividades
+Odoo Web	   	Esta herramienta es usado para la creación de sitios web corporativos a si también como blog, comercio electrónico o e-commerce, seo y plantillas
+Odoo Marketing	 	Campañas, generación de lead u oportunidades de negocios, encuestas, reportes de actividades
 Odoo CMR y Ventas	Generacion de leads, oportunidades de negocio, listas de precios, procesos de venta, cotizaciones, ordenes de venta.
-Odoo Almacenas	Esta herramienta controla el inventario asi también se encarga de las adquiciones, multi almacén y trazabilidad
+Odoo Almacenas		Esta herramienta controla el inventario asi también se encarga de las adquiciones, multi almacén y trazabilidad
 Odoo Fabricacion	Lista de componentes de los materiales y materias primas, desgaste, operaciones de montaje o fabricación, centro de trabajos
 
 2.	Complete la siguiente tabla sobre los principales productos ERP disponibles en la actualidad: 
 
-Sap	Sap	Erp sap es un paquete muy frecuentado por las grandes empresas y pymes  este fue diseñado con la principal función de mejorar y optimizar la gestión de ventas que están relacionados con las finazas , clientes y operación de la compañía.
-Oracle	Oracle	consiste en una colección de más de 70 aplicaciones de negocios modulares, pre-integradas y específicas para ciertas industrias y diseñadas para una implantación rápida y una fácil administración.
+Sap	Sap	Erp 	sap es un paquete muy frecuentado por las grandes empresas y pymes  este fue diseñado con la principal función de mejorar y optimizar la gestión de ventas que están relacionados con las finazas , clientes y operación de la compañía.
+Oracle	Oracle		consiste en una colección de más de 70 aplicaciones de negocios modulares, pre-integradas y específicas para ciertas industrias y diseñadas para una implantación rápida y una fácil administración.
 Microsoft Dynamics 	Microsoft Dynamics 	Este sistema ERP ofrece grandes ventajas en el área de gestión financiera, gestión de relaciones con los clientes y en la cadena de suministro. 
-Estas soluciones brindadas por Microsoft dynamics ayudan a mantener el control de las financias y a administrarlas con un alto nivel de eficacia
+						Estas soluciones brindadas por Microsoft dynamics ayudan a mantener el control de las financias y a administrarlas con un alto nivel de eficacia
 
 
 Conclusiones
 
-Tras la resolución de este laboratorio vimos los pasos de la instalación de odoo en Windows 
+Tras la resolución de este laboratorio vimos los pasos y requisitos que se necesitan para la instalación de odoo en Windows y linux.
 
 Odoo nos proporciona un conjunto de aplicaciones para empresas fáciles de utilizar.
+
+PGadmin es una herramienta de código abierto para la administración de bases de datos PostgreSQL y derivados.
+
+Tras la resolucion del laboratorio vimos los modulos de odoo mas importantes y los princpales productos de erp disponibles actualmente.
+
+un sistema ERP puede beneficiar aun negocio con diferentes areas de trabajo ya que la funcion de este se encarga de integrar y ordenar la informacion de cada uno de los procesos de la empresa.
+
