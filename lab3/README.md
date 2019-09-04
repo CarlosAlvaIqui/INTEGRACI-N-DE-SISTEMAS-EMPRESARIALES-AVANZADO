@@ -159,6 +159,14 @@ Vimos cuales son los pasos a seguir para la configuracion de odoo cmr tanto el p
 
 Vimos como es la creacion de clientes y mienbros de equipo asi tambien seleccionamos jerarquias para los mienbros
 
+Tras la realizacion del laboratorio vimos como crear inciativas y como convertir estas en oportunidades
+
+El flujo de venta nos permite ver todos los clientes generados
+
+Tras la realizacion del laboratorio vimos como costumizar el modulo website builder y como generar iniciativas en este.
+
+Utilizamos el modulo contact form que es una forma de comunicarnos atravez de un formulario.
+
 Vimos como son los pasos para importar contactos y clientes desde un cvs
 
 Fue necesario la realizacion de laboratorio anteriores para la compresion y realizacion de este
