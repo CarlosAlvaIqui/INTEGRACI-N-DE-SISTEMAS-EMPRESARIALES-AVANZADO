@@ -58,6 +58,9 @@ Alumno: Carlos Enrique Alvarez Iquiapaza
 3.16. Finalmente el asistente muestra la pantalla de finalización:
 ![image15](./images/Punto 3_16 Finalizacion.PNG)
 
+
+
+
 ## Tarea	
 
 1. Describa el procedimiento para importar contactos/clientes desde un archivo CSV (revise la
@@ -70,5 +73,12 @@ disponibles en su editor. Adjunte imágenes del resultado obtenido.
 
 ## Conclusiones y Observaciones
 
+Vimos cuales son los pasos a seguir para la configuracion de odoo cmr tanto el planificador de ventas y cliente
+
+Vimos como es la creacion de clientes y mienbros de equipo asi tambien seleccionamos jerarquias para los mienbros
+
+Vimos como son los pasos para importar contactos y clientes desde un cvs
+
+Fue necesario la realizacion de laboratorio anteriores para la compresion y realizacion de este
 
 
