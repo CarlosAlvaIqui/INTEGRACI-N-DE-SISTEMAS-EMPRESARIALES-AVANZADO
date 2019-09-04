@@ -85,6 +85,63 @@ Alumno: Carlos Enrique Alvarez Iquiapaza
 tiene asignado un jefe de equipo:
 ![image22](./images/Punto5_12jefe_ventasdirectas.PNG)
 
+6.2.3 Verifique que se haya creado un nuevo submenú Iniciativas dentro de Ventas que le da
+acceso a una lista de todos sus iniciativas en la cual será capaz de crear un nuevo contacto
+![image23](./images/Punto6_2_3SubmenuInciativas.PNG)
+
+6.2.5 Complete los datos del nuevo contacto:
+![image24](./images/Punto6_2_5NuevoContacto.PNG)
+
+6.2.8 En el cuadro de diálogo de confirmación, Clic en el botón “Crear oportunidad”
+![image25](./images/Punto6_2_8CrearOportunidad.PNG)
+
+6.2.9 Verifique en la opción de Clientes que se muestra el nuevo Contacto generado:
+![image26](./images/Punto6_2_9NuevoContacto.PNG)
+
+6.3.4 A continuación se muestra los datos del nuevo Cliente y los datos de un nuevo contacto
+asociado al cliente
+![image27](./images/Punto6_3_4ClienteScannia.PNG)
+
+6.3.5 Clic en el botón Guardar para grabar el nuevo Cliente
+![image28](./images/Punto6_3_5NuevoContacto.PNG)
+
+6.3.6 Complete los datos de Ingreso estimado y Clasificación. Clic en el botón Crear
+![image29](./images/Punto6_3_6Estimado.PNG)
+
+6.3.7 Verifique que en la vista Kanban se muestre la nueva oportunidad creada
+![image30](./images/Punto6_3_7Presupuesto.PNG)
+
+7.3 Clic en Edit
+![image31](./images/Punto7_3Editar.PNG)
+
+7.7. Regrese nuevamente al panel Apps con la opción del menú Website indicado:
+![image32](./images/Punto7_7SitioWEB.PNG)
+
+7.9. Verifique que se haya adicionado el siguiente formulario de contacto a su sitio web en el enlace
+correspondiente a Contáctenos
+![image33](./images/Punto7_9Contactenos.PNG)
+
+7.10 Adicione un nuevo Contacto empleando el formulario anterior. Clic en Enviar
+![image34](./images/Punto7_10Enviarformulario.PNG)
+
+7.11 Debe visualizar un mensaje de confirmación de la creación del contacto:
+![image35](./images/Punto7_11MensajeExito.PNG)
+
+7.12  Regrese nuevamente al módulo CRM. Elija la opción del tablero Ventas → Iniciativas y verifique que
+se muestre el nuevo contacto captado por medio del sitio web
+![image36](./images/Punto7_12Verficacion.PNG)
+
+7.14 Complete los datos. clic en el botón Guardar
+![image37](./images/Punto7_14CONVERTIR.PNG)
+
+7.15. Elija la opción “Flujo de ventas” y verifique que se visualiza la nueva oportunidad:
+![image38](./images/Punto7_15pacacitacion.PNG)
+
+7.16 Desplace la nueva oportunidad a la columna “Calificado” (Use drag & drop)
+![image39](./images/Punto7_16cALIFICADO.PNG)
+
+
+
 
 ## Tarea	
 
