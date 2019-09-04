@@ -11,54 +11,79 @@ Alumno: Carlos Enrique Alvarez Iquiapaza
 
 3.2. Se muestra el asistente de configuración del módulo (pantalla de bienvenida):
 
-![image2](./images/Punto 3_2 Configuracion del modulo.PNG)
+![image2](./images/Punto3_2Configuracion_modulo.PNG)
 
 3.3. Ingrese las expectativas de su estrategia (Objetivos de ventas, retos)
 
-![image3](./images/Punto 3_3  nota.PNG)
+![image3](./images/Punto3_3nota.PNG)
 
 3.4. Ingrese los KPIs de su estrategia:
 
-![image4]()./images/Punto 3_4 Estrategias KPI.PNG)
+![image4](./images/Punto3_4Estrategias_KPI.PNG)
 
 3.5. Configure el flujo de trabajo para su estrategia:
 
-![image5](./images/Punto 3_5 Flujo de Trabajo.PNG)
+![image5](./images/Punto3_5Flujo_Trabajo.PNG)
 
 3.7. Revise las recomendaciones de la ventana: “Correos electrónicos entrantes”
 
-![image6](./images/Punto 3_7 Correos Electronicos entrantes.PNG)
+![image6](./images/Punto3_7Correos_Electronicos_entrantes.PNG)
 
 3.8. Revise las opciones disponibles para creación de Clientes
 
-![image7](./images/Punto 3_8 Creacion disponibles.PNG)
+![image7](./images/Punto3_8Creaciondisponibles.PNG)
 
 3.9. Revise las opciones disponibles para creación de Productos
-![image8](./images/Punto 3_9 CreacionProductos.PNG)
+![image8](./images/Punto3_9CreacionProducts.PNG)
 
 3.10. Revise las opciones disponibles para definición de Precios & descuentos
 
-![image9](./images/Punto 3_9 CreacionProductos.PNG./images/Punto 3_10 PreciosDescuentos.PNG)
+![image9](./images/Punto3_10PreciosDescuentos.PNG)
 
 3.11. Revise las opciones disponibles para definición de Informes
-![image10](./images/Punto 3_11 Informes.PNG)
+![image10](./images/Punto3_11Informes.PNG)
 
 3.12. Revise las opciones disponibles para Personalizaciones
-![image11](./images/Punto 3_12 Personalizaciones.PNG)
+![image11](./images/Punto3_12Personalizaciones.PNG)
 
 3.13. Revise las opciones disponibles en “Reuniones Semanales”
-![image12](./images/Punto 3_13 ReununionesSemanales.PNG)
+![image12](./images/Punto3_13ReununionesSemanales.PNG)
 
 3.14. Revise las opciones disponibles en “Herramientas de Ventas”
-![image13](./images/Punto 3_14 Herramientas de ventas.PNG)
+![image13](./images/Punto3_14Herramientasdeventas.PNG)
 
 3.15. Revisar las opciones disponibles en “Añadir características”
-![image14](./images/Punto 3_15 Añadir Caracteristicas.PNG)
+![image14](./images/Punto3_15AñadirCaracteristicas.PNG)
 
 3.16. Finalmente el asistente muestra la pantalla de finalización:
-![image15](./images/Punto 3_16 Finalizacion.PNG)
+![image15](./images/Punto3_13ReununionesSemanales.PNG)
 
 
+4.1. Clic en la opción Clientes del Tablero
+![image16](./images/Punto4_1Tablero_clientes.PNG)
+
+
+4.3. Complete los datos del nuevo Cliente:
+![image16](./images/Punto4_3Creacion_cliente.PNG)
+
+4.5. Complete los datos del nuevo contacto:
+![image17](./images/Punto4_5nuevo_contacto.PNG)
+
+4.9. Clic en el botón Guardar para grabar el nuevo Cliente
+![image18](./images/Punto4_9Cliente_guardado.PNG)
+
+![image19](./images/Punto4_9Guarda_Cliente.PNG)
+
+5.6. Complete los datos del nuevo miembro del equipo. Clic en “Guardar y Nuevo” para finalizar
+![image20](./images/Punto5_6CrearMiembro.PNG)
+
+5.10. Elija a Maruja López, como Jefe de equipo.
+![image21](./images/Punto5_10Jefe_canl.PNG)
+
+
+5.12. Visualice nuevamente los “Equipos de Ventas” y verifique que el equipo de Ventas Directas
+tiene asignado un jefe de equipo:
+![image22](./images/Punto5_12jefe_ventasdirectas.PNG)
 
 
 ## Tarea	
