@@ -104,6 +104,13 @@ los productos en el sistema.
 
 
 ## Tarea	
+9.1. Habilite las opciones Atributos y variantes, y Unidades de medida. Vaya a la ficha de producto e indique
+las diferencias, así como adjunte imágenes de productos con varios atributos y/o unidades de medida
+distintas.
+
+9.2. Entre al menú Reglas de abastecimiento e intente crear una. Indique en que caso puede servir este
+proceso.
+
 
 ## Conclusiones y Observaciones
 
