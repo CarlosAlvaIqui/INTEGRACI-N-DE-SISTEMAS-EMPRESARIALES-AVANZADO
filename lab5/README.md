@@ -145,8 +145,45 @@ validación de información del sistema.
 
 ## Tarea	
 
+Crear una cotización, validarla y registrar una factura por pago previo (La cotización será de
+S/1000.00 y la primera factura será de S/200.00, la otra por el restante)
+
+Adjunte una captura del proceso, de cómo verá el cliente mediante su portal web a la factura, al
+inicio de ser emitida, luego del primer pago, y finalmente cuando está pagada totalmente.
 
 ## Conclusiones y Observaciones
+
+Tras la finalización del laboratorio vimos como crear y editar cotizaciones.
+
+
+Vimos como enviar cotizaciones a un cliente mediante correo electrónico.
+
+
+Tras la resolución del laboratorio configuramos el envió de correo.
+
+
+Tras la realización del laboratorio vimos como es la creación de facturas.
+
+
+Vimos como aplicar múltiples precios a un producto(lista de precios).
+
+
+Vimos como establecer invitaciones a cuentas de clientes.
+
+
+Tras la realización del laboratorio vimos como configurar el portal del cliente.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
