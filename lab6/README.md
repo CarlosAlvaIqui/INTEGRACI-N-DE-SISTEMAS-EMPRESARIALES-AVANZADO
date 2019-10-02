@@ -1,6 +1,7 @@
 # INTEGRACIÓN DE SISTEMAS EMPRESARIALES AVANZADO 
 # LABORATORIO N° 06: MÓDULO COMPRAS
 
+# Alumno: Carlos Enrique Alvarez Iquiapaza
 
 2.4. Podemos ver que al crear la solicitud de presupuesto se habilitan las opciones de Imprimir e incluso enviar por correo electrónico. Adjunte una imagen de cómo luce el correo en su bandeja y el adjunto generado. 
 ![image1](./images/Punto2_4.PNG)
