@@ -31,7 +31,7 @@ cierre de turno. Proceda a cerrar y validar esta sesión para iniciar otra con u
 3.2. Habilite la opción de Control de Precios.
 ![image6](./images/Punto3_2.PNG)
 
-3.3. Intente iniciar una nueva sesión de venta. Verá que ahora no lo redirige directamente al Punto de
+3.3.Intente iniciar una nueva sesión de venta. Verá que ahora no lo redirige directamente al Punto de
 Venta, sino que aparece una ventana previa. Aquí podrá configurar un Balance de Apertura.
 ![image7](./images/Punto3_3.PNG)
 
@@ -57,7 +57,7 @@ precios.
 
 4.2. Proceda a crear dos categorías:
 Frutas
-Útiles Escolares.
+Útiles Escolares
 ![image12](./images/Punto4_2.PNG)
 
 4.3. Vamos a editar un producto. En la pestaña Ventas, aparecerá la opción Punto de Venta. Dentro de
@@ -78,7 +78,7 @@ dibujarlas.
 5.5. Para hacer un pedido, debemos estar fuera del modo de edición y hacer click en una mesa.
 ![image17](./images/Punto5_5.gif)
 
-5.6. Tenemos un nuevo botón, que sirve para añadir notas a los pedidos. Así se le pueden añadir
+5.6. Tenemos un nuevo botón, que sirve para añadir notas a los pedidos. Así se le pueden añadir 
 personalizaciones al pedido, como por ejemplo añadir mayonesa o preparar sin sal.
 ![image18](./images/Punto5_6.PNG)
 
@@ -93,7 +93,7 @@ Esto es útil para cuando los clientes piden el total para saber cuánto han con
 ![image21](./images/Punto5_9_1.PNG)
 
 
-# Conlusiones
+# Conlusiones y Observaciones
 
 Fue necesario instalar el modulo de venta, para establecer que tarjetas son permitidas en el establecimiento y hacer como una simulacion de un local.
 

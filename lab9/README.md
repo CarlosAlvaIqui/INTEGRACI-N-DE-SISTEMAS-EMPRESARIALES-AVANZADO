@@ -30,7 +30,8 @@
 ![image10](./images/Punto7_3.gif)
 
 
-
+8.5. Actualizaremos nuestro módulo (al haber modificado archivos python, se necesita recompilar, por lo que se necesita reiniciar el servicio) y adjuntaremos un GIF de la vista de creación de facturas (Dentro del módulo Facturación, Ventas, Facturas de Cliente). Deberíamos ser capaces de relacionar nuestras series a las facturas ahora creadas. 
+![image11](./images/Punto8_5.gif)
 
 
 # Conlusiones

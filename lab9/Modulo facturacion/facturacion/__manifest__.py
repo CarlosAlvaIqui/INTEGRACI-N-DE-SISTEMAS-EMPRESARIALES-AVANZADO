@@ -7,11 +7,13 @@
     'descripcion': """
 Core mechanisms for the accounting modules. To display the menuitems, install the module account_invoicing.
     """,
-    'depends' : [],
+    'depends' : ['account','contacts'],
     'data': [
         'views/series_view.xml',
         'data/series.xml',
+        'data/documentos.xml',
         'views/account_invoice_view.xml',
+        'views/documentos_view.xml',
     ]
 
 }
