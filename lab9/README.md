@@ -1,5 +1,5 @@
 # INTEGRACIÓN DE SISTEMAS EMPRESARIALES AVANZADO 
-# LABORATORIO N° 09: MÓDULO PUNTO DE VENTA
+# LABORATORIO N° 09: Módulo Básico y Herencia
 
 # Alumno: Carlos Enrique Alvarez Iquiapaza
 
