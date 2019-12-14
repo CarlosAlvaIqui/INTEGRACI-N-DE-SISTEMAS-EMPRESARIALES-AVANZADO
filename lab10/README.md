@@ -22,6 +22,8 @@ Tras la resolucion del laboratorio vimos una forma mas rapida de ingresar datos 
 
 Para ver los datos ingresados por medio de archivos debemos reiniciar el servicio de odoo.
 
+Para la resolucion del laboratorio fue necesario utilizar un api externa de apis peru todo esto para pasarle  data a odoo
+
 Durante la realizacion del laboratorio pudimos agregar la funcion de editar los documento al modulo de facturacion
 
 Fue necesario la realizacion de laboratorios anteriores para la comprension y realizacion de este
